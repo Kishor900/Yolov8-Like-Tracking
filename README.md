@@ -1,7 +1,3 @@
-Below is an example of a well-structured and informative `README.md` for your GitHub project:
-
----
-
 # 🌟 Introduction
 
 Welcome to our cutting-edge computer vision project, where we harness the power of YOLO (You Only Look Once) and ZeroMQ for real-time object tracking and logging!
