@@ -5,6 +5,8 @@ Welcome to my advanced computer vision project! Here, I leverage the power of YO
 # 📖 About the Project
 
 In this project, I integrate the cutting-edge YOLOv8 model for object detection with a robust ZeroMQ messaging framework. This setup is ideal for scenarios that demand efficient and real-time processing such as surveillance systems, traffic monitoring, or advanced retail analytics.
+
+
 ![yolov8 person tracking](https://github.com/Kishor900/Yolov8-person-tracking/blob/main/vlcsnap-2024-01-04-22h26m32s933.png "Snap shot")
 
 
