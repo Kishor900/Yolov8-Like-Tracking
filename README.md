@@ -54,7 +54,6 @@ It listens for incoming messages from the server and diligently logs each event 
 - `Pause/Resume Processing Key (default: 'g' and 's')`: Pauses and resumes the video processing. Press 'g' to pause the live video feed. While paused, you can draw lines on the frame. Press 's' to resume processing with the drawn lines.
 - `Start/Stop Recording Key (default: 'k' and 'l')`: Starts and stops the video recording. Press 'k' to begin recording the video stream and 'l' to stop it. The recorded video is saved as `rec_inf.mp4`.
 - `Exit Application Key (default: 'q')`: Quits the application. Ensure to stop recording before exiting.
-- `Drawing Mode`: Activated when the processing is paused. Click and drag the mouse on the video window to draw lines. These lines can be used for tracking or other purposes in the video feed.
 
 Remember to adapt these keys as per your `config.json` settings or personal preferences. The default key assignments are based on typical usage but can be customized to fit your workflow.
 
