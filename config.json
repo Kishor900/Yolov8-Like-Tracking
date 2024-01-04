@@ -1,0 +1,52 @@
+{
+  "tracklet_history_frames": 30,
+  "line_color": [
+    0,
+    165,
+    255
+  ],
+  "line_thickness": 2,
+  "tracklet_color": [
+    199,
+    255,
+    150
+  ],
+  "tracklet_thickness": 2,
+  "text_color": [
+    255,
+    105,
+    180
+  ],
+  "text_font": 0.5,
+  "text_thickness": 2,
+  "log_window_size": [
+    500,
+    500
+  ],
+  "log_text_color": [
+    255,
+    255,
+    255
+  ],
+  "log_text_font": 0.5,
+  "log_text_thickness": 1,
+  "model_path": "yolov8n.pt",
+  "video_path": "C:\\Users\\Kishor\\Desktop\\archive (1)\\TownCentreXVID1.mp4",
+  "pause_key": "g",
+  "resume_key": "s",
+  "exit_key": 27,
+  "confidence_threshold": 0.35,
+  "message_up": "towards up",
+  "message_down": "towards down",
+  "message_left": "towards left",
+  "message_right": "towards right",
+  "sender_port": 5555,
+  "receiver_port": 5555,
+  "start_record_key": "k",
+  "stop_record_key": "l",
+  "output_video_name": "rec_inf.mp4",
+  "output_video_fps": 30,
+  "output_video_codec": "mp4v",
+  "output_video_width": 1920,
+  "output_video_height": 1080
+}
