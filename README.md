@@ -18,8 +18,8 @@ To start using this project:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-repository.git
-    cd your-repository
+    https://github.com/Kishor900/Yolov8-person-tracking.git
+    cd Yolov8-person-tracking
     ```
 
 2. Install the required dependencies:
